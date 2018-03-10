@@ -7,7 +7,7 @@ phases:
 aritifacts:
   files:
     - index.html
-    - favicon.icons
+    - favicon.ico
     - Ashish Gumaste - resume.pdf
     - styles/main.css
     - images/*

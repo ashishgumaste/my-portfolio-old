@@ -1,0 +1,13 @@
+version: 0.1
+
+phases:
+  build:
+    commands:
+      - echo Nothing to build stylesheet
+aritifacts:
+  files:
+    - index.html
+    - favicon.icons
+    - Ashish Gumaste - resume.pdf
+    - styles/main.css
+    - images/*
